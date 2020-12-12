@@ -100,8 +100,6 @@ funfacts:
     count: "50"
   - name: STUDENTS
     count: "1000"
-  - name: SATISFIED CLIENT
-    count: "1400"
 blog:
   enable: true
   title: Latest News
