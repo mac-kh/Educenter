@@ -101,5 +101,5 @@ funfacts:
   - name: STUDENTS
     count: "1000"
 blog:
-  enable: true
+  enable: false
   title: Latest News
