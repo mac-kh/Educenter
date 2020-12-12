@@ -1,6 +1,6 @@
 baseURL = "http://kh-mac.netlify.app"
 disableLanguages = ["fr", ""]
-disqusShortname = "educenter"
+disqusShortname = "M.A.C."
 paginate = "6"
 summaryLength = "10"
 theme = "educenter-hugo"
