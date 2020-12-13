@@ -11,7 +11,7 @@ slider:
       enable: false
       label: Apply now
       link: contact
-  slider_item:
+  # slider item loop
   - title: Start Small, Grow Big
     content: 
     animation_in: left
