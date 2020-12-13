@@ -1,7 +1,7 @@
 ---
 slider:
   enable: true
-  bg_image: images/banner/banner-1.jpg
+  bg_image: images/banner/banner-1.jpeg
   slider_item:
   - title: Your bright future is our mission
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
@@ -95,11 +95,11 @@ funfacts:
   enable: false
   funfact_item:
   - name: TEACHERS
-    count: "60"
+    count: ""
   - name: COURSES
-    count: "50"
+    count: ""
   - name: STUDENTS
-    count: "1000"
+    count: ""
 blog:
   enable: false
   title: Latest News
