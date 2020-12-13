@@ -11,8 +11,6 @@ slider:
       enable: false
       label: Apply now
       link: contact
-  enable: true
-  bg_image: images/banner/banner-1.jpeg
   slider_item:
   - title: Start Small, Grow Big
     content: 
