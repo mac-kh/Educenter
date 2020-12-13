@@ -41,25 +41,33 @@ hasChildren = true
 name = "Pages"
 weight = 3
 [[Languages.en.menu.main]]
-name = "teacher"
+name = "Articles"
 parent = "Pages"
-url = "teacher"
+url = ""
 [[Languages.en.menu.main]]
-name = "notice"
+name = "Seminars"
 parent = "Pages"
-url = "notice"
-[[Languages.en.menu.main]]
-name = "event"
-parent = "Pages"
-url = "event"
-[[Languages.en.menu.main]]
-name = "scholarship"
-parent = "Pages"
-url = "scholarship"
-[[Languages.en.menu.main]]
-name = "research"
-parent = "Pages"
-url = "research"
+url = ""
+#[[Languages.en.menu.main]]
+#name = "teacher"
+#parent = "Pages"
+#url = "teacher"
+#[[Languages.en.menu.main]]
+#name = "notice"
+#parent = "Pages"
+#url = "notice"
+#[[Languages.en.menu.main]]
+#name = "event"
+#parent = "Pages"
+#url = "event"
+#[[Languages.en.menu.main]]
+#name = "scholarship"
+#parent = "Pages"
+#url = "scholarship"
+#[[Languages.en.menu.main]]
+#name = "research"
+#parent = "Pages"
+#url = "research"
 [[Languages.en.menu.main]]
 name = "blog"
 url = "blog"
