@@ -5,7 +5,7 @@ paginate = "6"
 summaryLength = "10"
 theme = "educenter-hugo"
 themesDir = "../.."
-title = "Educenter | hugo education template"
+title = "M.A.C. | Mathematical Association of Cambodia"
 [Languages.en]
 contentDir = "content/english"
 copyright = "Copyright &copy; 2020 a hugo theme by [themefisher](https://themefisher.com)"
@@ -134,7 +134,7 @@ weight = 5
 address = ""
 author = ""
 contact_form_action = "#"
-description = "This is meta description"
+description = ""
 email = "mac.kh.cam@gmail.com"
 google_analitycs_id = ""
 logo = "images/M.A.C.png"
@@ -145,9 +145,9 @@ enable = true
 expire_days = 2
 [params.map]
 enable = false
-gmap_api = "https://maps.googleapis.com/maps/api/js?key=AIzaSyBu5nZKbeK-WHQ70oqOWo-_4VmwOwKP9YQ"
-map_latitude = "51.5223477"
-map_longitude = "-0.1622023"
+gmap_api = ""
+map_latitude = ""
+map_longitude = ""
 map_marker = "images/marker.png"
 [[params.plugins.css]]
 link = "plugins/bootstrap/bootstrap.min.css"
@@ -176,9 +176,9 @@ enable = true
 preloader = "images/preloader.gif"
 [params.subscription]
 enable = true
-mailchimp_form_action = "https://gmail.us4.list-manage.com/subscribe/post?u=463ee871f45d2d93748e77cad&amp;id=a0a2c6d074"
-mailchimp_form_name = "b_463ee871f45d2d93748e77cad_a0a2c6d074"
+mailchimp_form_action = ""
+mailchimp_form_name = ""
 [[params.social]]
 icon = "ti-facebook"
-link = "#"
+link = "https://www.facebook.com/wemaccommunity/"
 title = "facebook"
