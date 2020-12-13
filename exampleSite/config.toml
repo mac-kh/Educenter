@@ -148,7 +148,6 @@ google_analitycs_id = ""
 logo = "images/M.A.C.png"
 mobile = ""
 top_header = true
-bottom_footer= false
 [params.cookies]
 enable = true
 expire_days = 2
@@ -184,7 +183,7 @@ link = "plugins/google-map/gmap.js"
 enable = true
 preloader = "images/preloader.gif"
 [params.subscription]
-enable = true
+enable = false
 mailchimp_form_action = ""
 mailchimp_form_name = ""
 [[params.social]]
