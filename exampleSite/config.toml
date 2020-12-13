@@ -137,7 +137,7 @@ contact_form_action = "#"
 description = "This is meta description"
 email = "mac.kh.cam@gmail.com"
 google_analitycs_id = ""
-logo = "images/logo.png"
+logo = "images/M.A.C.png"
 mobile = ""
 top_header = true
 [params.cookies]
