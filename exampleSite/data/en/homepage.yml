@@ -49,11 +49,8 @@ about:
     enable: true
     label: Learn more
     link: about
-post:
-  enable: true
-  title: Recent Posts
 course:
-  enable: false
+  enable: true
   title: Our Course
 cta:
   enable: false
