@@ -41,7 +41,7 @@ about:
     label: Learn more
     link: about
 course:
-  enable: false
+  enable: true
   title: Our Course
 cta:
   enable: false
